@@ -28,11 +28,14 @@
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
 </p>
 
-<img src="images (2).jpeg">
+
 
 ## ABOUT:
 
-Simple Slack webhook for posting notifications about upcoming seminars
+what is an improved version of the `w` tool. It finds all processes
+associated with a TTY (not just those registered in wtmp), and reports
+all users that are running anything. In particular, unlike `w`, `what`
+will also shows things running in detached screens/tmuxen. 
 
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
@@ -43,12 +46,9 @@ This software is free to distribute, modify and use with the condition that cred
 
  2022 © - Error-4-You
 
-what is an improved version of the `w` tool. It finds all processes
-associated with a TTY (not just those registered in wtmp), and reports
-all users that are running anything. In particular, unlike `w`, `what`
-will also shows things running in detached screens/tmuxen. 
 
-Example output:
+
+
 
 ```console
 $ ./what 
