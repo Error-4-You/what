@@ -40,15 +40,7 @@ will also shows things running in detached screens/tmuxen.
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
 
-# ⚠️Warning️⚠️
-
-<p>This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.</p>
-
- 2022 © - Error-4-You
-
-
-
-
+## Example output:
 
 ```console
 $ ./what 
@@ -60,3 +52,9 @@ jon      pts/0    9m36s     2s     2s python2 ./what
 root     none    177 more processes
 jon      none    42 more processes
 ```
+
+# ⚠️Warning️⚠️
+
+<p>This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.</p>
+
+ 2022 © - Error-4-You
